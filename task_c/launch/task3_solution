@@ -1,0 +1,6 @@
+<launch>
+
+<node name="reading_laser" pkg="sidewf" type="window.py"
+
+</launch>
+
