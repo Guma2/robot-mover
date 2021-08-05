@@ -1,0 +1,5 @@
+<launch>
+
+ <node name="follow_lane" pkg="task_c" type="bolt.py"  output="screen"></node>
+
+</launch>
