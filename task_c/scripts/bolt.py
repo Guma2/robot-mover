@@ -96,7 +96,7 @@ class Circling(): #main class
         #print msg.pose.pose #print position and orientation of turtlebot
 
 if __name__ == '__main__':
-    rospy.init_node('black') #initilize node
+    rospy.init_node('follow_lane') #initilize node
     follower = Follower()
     
     rospy.spin() #loop it
